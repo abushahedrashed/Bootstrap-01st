@@ -1,0 +1,96 @@
+.bg{
+	background-color: #666;
+	
+}
+.lightgray{
+	color: #888;
+}
+
+/*  | TOP PART |  */
+.top-text{
+	text-align: center;
+	padding-top: 11em;
+	padding-bottom: 11em;
+	color: #fff;
+	padding-left: 4em;
+	padding-right: 4em;
+}
+.top-text p{
+	font-size: 20px;
+}
+/*  | TOP PART |  */
+
+/* | 2nd PART | */
+.second_part{
+	
+	
+}
+.second_part .container{
+	padding-top: 5em;
+	padding-bottom: 5em;
+	border-bottom: 2px solid #bfbebe;
+}
+.second_text{
+	text-align: center;
+	color: #555;
+}
+.circle{
+	display: block;
+	
+}
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
+/* | 2nd PART | */
+
+/* | 3rd PART | */
+.third-part .container{
+	padding-top: 5em;
+	padding-bottom: 5em;
+	border-bottom: 2px solid #bfbebe;
+}
+.third_text{
+	padding-top: 110px;
+	color: #555;
+}
+.hh-image{
+	width: 400px;
+	height: 400px;
+	margin: 0 auto;
+}
+/* | 3rd PART | */
+
+/* | 5th PART | */
+
+.fifth_text{
+	
+	color: #555;
+}
+/* | 5th PART | */
+
+
+/* | Footer | */
+.footer .container{
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.footer ul{
+	margin: 0;
+	padding: 0;
+}
+.footer ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+.footer ul li a{
+	text-decoration: none;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+.back-to-top{
+	text-align: right;
+}
+/* | Footer | */
